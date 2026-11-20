@@ -1,0 +1,14 @@
+# Reuse the torch and torchvision provided by the Colab GPU runtime.
+mmengine
+timm
+ftfy
+regex
+iopath
+huggingface-hub
+einops
+pycocotools
+psutil
+tqdm
+nltk
+matplotlib
+pandas
